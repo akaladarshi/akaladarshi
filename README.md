@@ -2,10 +2,9 @@
 
 I'm Aryan Tikarya, known as akaladarshi - the Eternal Seeker.
 
-- 🔭 Working On: Developing the OmniChain Platform, [DojimaNetwork](https://www.dojima.network).
-- 🌱 Currently Learning: Thinking mathmetically, TLA+ and Rust.
-- 👯 Looking to Collaborate: Interested in projects involving Filecoin or Cosmos-SDK.
-- 🤔 Seeking Ideas: Eager to contribute to projects with a purpose beyond monetary gain.
+- 🔭 Working On: Making the chainsafe forest default node implementation of filecoin , [Chainsafe](https://chainsafe.io/).
+- 🤔 Planning: Aspiring to architect things.
+- 🌱 Currently Learning: Thinking mathmetically, Quint and Rust.
 - 💬 Let's Talk About: Life as in everything and blockchain as a transformative system.
 - 📫 Reach Out:
    - Connect on [LinkedIn](https://www.linkedin.com/in/aryan-tikarya/)
